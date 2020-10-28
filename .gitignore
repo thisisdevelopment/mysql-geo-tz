@@ -1,0 +1,6 @@
+node_modules/
+.idea
+reduced.json
+combined.json
+timezones.sql
+timezones.sql.gz
